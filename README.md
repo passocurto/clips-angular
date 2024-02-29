@@ -1,27 +1,38 @@
-# Clips
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
+# Projeto Clips-Angular
 
-## Development server
+Este é um projeto Angular desenvolvido para desenvolver as minhas habilidades com angular. Utiliza o poderoso framework Angular, tailwind
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<!-- ## Funcionalidades Principais
 
-## Code scaffolding
+- [Lista das principais funcionalidades do projeto]
+- [Outra funcionalidade importante]
+- [E assim por diante...] -->
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instalação
 
-## Build
+Para executar este projeto localmente, siga estas etapas:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Clone este repositório: `git clone https://github.com/passocurto/clips-angular.git`
+2. Instale as dependências: `npm install`
+3. Inicie o servidor de desenvolvimento: `ng serve`
+4. Abra o navegador e acesse `http://localhost:4200/`
 
-## Running unit tests
+## Contribuindo
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Aceitamos contribuições de todos os níveis de habilidade. Se você deseja contribuir para este projeto, por favor siga estas etapas:
 
-## Running end-to-end tests
+1. Faça um fork do projeto
+2. Crie uma branch para sua feature: `git checkout -b minha-feature`
+3. Faça commit das suas alterações: `git commit -m 'Adicionando nova funcionalidade'`
+4. Envie suas alterações para a branch: `git push origin minha-feature`
+5. Submeta uma pull request
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Licença
 
-## Further help
+Este projeto é licenciado sob a [insira o tipo de licença aqui]. Consulte o arquivo `LICENSE` para obter mais informações.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Contato
+
+Para mais informações, sugestões ou dúvidas, sinta-se à vontade para entrar em contato conosco através de passocurto@gmail.com.
+
